@@ -4,8 +4,8 @@ All titles are public domain except "Orb-weaver silk mechanics", which stands in
 
 | # | Title | Author | Type | Format | Count badge | Status | Progress |
 |---|---|---|---|---|---|---|---|
-| 1 | Moby-Dick; or, The Whale | Herman Melville | ebook + audio pair | EPUB (+ M4B, 24h 50m) | 135 chapters | reading | 1% (chapter 1, narration at 5% of the chapter) |
-| 2 | Frankenstein | Mary Shelley | ebook | EPUB | 24 chapters | reading | 31% |
+| 1 | Moby-Dick; or, The Whale | Herman Melville | ebook | EPUB | 135 chapters | reading | 1% (chapter 1; on-device narration at 5% of the chapter) |
+| 2 | Frankenstein | Mary Shelley | ebook + audio pair | EPUB (+ M4B) | 24 chapters | reading | 31% |
 | 3 | Pride and Prejudice | Jane Austen | audio | M4B | 11h 35m | reading | 45% |
 | 4 | Little Nemo in Slumberland | Winsor McCay | comic | CBZ | 190 pages | reading | page 118 of 190 (62%) |
 | 5 | The Time Machine | H. G. Wells | pdf | PDF | 240 pages | reading | page 118 of 240 (49%) on the phone; page 210 (88%) on the tablet |
@@ -19,7 +19,7 @@ All titles are public domain except "Orb-weaver silk mechanics", which stands in
 
 ## Derived numbers
 
-- Shelf counts: All 12; Reading 7 (1, 2, 3, 4, 5, 8, 10); Listening 4 (1, 3, 6, 9); Comics 2 (4, 11); Papers 1 (10). Finished: 2 (7, 12).
+- Shelf counts: All 12; Reading 7 (1, 2, 3, 4, 5, 8, 10); Listening 4 (2, 3, 6, 9); Comics 2 (4, 11); Papers 1 (10). Finished: 2 (7, 12).
 - Pride and Prejudice: 61 chapters, 11h 35m = 695 min. 45% = 313 min = 5h 13m played, 6h 22m left. Now in chapter 28 (12:40 long), at 7:28, so 5:12 left in the chapter; the chapter scrubber shows 12 minute ticks.
 - Time Machine sync prompt: 118 / 240 = 49%; 210 / 240 = 88%.
 - Stats week: reading 30 + 45 + 20 + 60 + 35 + 42 + 20 = 252 min = 4h 12m; listening 50 + 40 + 65 + 30 + 70 + 60 + 50 = 365 min = 6h 05m; total 617 min = 10h 17m.
@@ -27,5 +27,5 @@ All titles are public domain except "Orb-weaver silk mechanics", which stands in
 
 ## Text on screen
 
-- Read-along demo: Moby-Dick, chapter 1 ("Loomings"), paragraph beginning "It is a way I have of driving off the spleen".
+- Read-along demo: Moby-Dick, chapter 1 ("Loomings"), paragraph beginning "It is a way I have of driving off the spleen", cut with an ellipsis after "knocking people's hats off" so the original punctuation is never altered. The highlighted sentence starts at "Whenever".
 - Reading buddy samples: opening lines of Moby-Dick, Frankenstein (chapter 5), Alice, Pride and Prejudice and The Hound of the Baskervilles.
