@@ -76,7 +76,7 @@ Not opened yet: MP3 (Dracula), CBR (Thimble Theatre). Shares add to 100%.
 
 - Daily average 617 / 7 = 88.1 min → 1h 28m. Streak 8 days: 9 Oct (13 min of Pride and Prejudice) through 16 Oct; nothing on 8 Oct.
 - Bars scale to the busiest day (105 min = full width).
-- Week listening 365 = Pride and Prejudice 300 + Frankenstein 65. Pride and Prejudice's other 13 min were on 9 Oct.
+- Week listening 365 = Pride and Prejudice 300 + Frankenstein 65 (Wed 14 Oct 35, Thu 15 Oct 30). Pride and Prejudice's other 13 min were on 9 Oct.
 - Today: 35m reading (The Time Machine) + 1h 10m listening (Pride and Prejudice, 45m + 25m). Last session: 25m of Pride and Prejudice.
 
 ## Saved
@@ -87,6 +87,7 @@ Highlights 48 (Time Machine 9, Alice 14, Pooh 6, Frankenstein 11, Equiano 3, Orb
 
 - The Time Machine: reading time 2h 57m (177 min) over 118 pages = 1.5 min a page; pages left 240 − 118 = 122; time left 122 × 1.5 = 183 min = 3h 03m; highlights 9; notes 2; 14 sessions, average 177 / 14 = 12.6 → 13m; started 2 Oct 2026; last read today.
 - Pride and Prejudice: listened 5h 13m (313 min); chapter 28 of 61; 45%; time left 695 − 313 = 382 min = 6h 22m at 1.0x, 382 / 1.5 = 255 min = 4h 15m at 1.5x; bookmarks 4; 9 sessions, average 313 / 9 = 34.8 → 35m; usual speed 1.0x; started 9 Oct 2026; last listened today.
+- Frankenstein (ebook + audio pair): 32.1% (chapter 8 of 24; audio at 4:46 of chapter 8). Time spent 2h 45m: read 1h 40m (100 min), listened 1h 05m (65 min). Listening covered 65 / 515 = 12.6% of the book, so reading covered 32.1 − 12.6 = 19.5% in 100 min, about 5.13 min per 1%. Left reading 67.9 × 5.13 = 348 min = 5h 48m; left listening 515 × 0.679 = 350 min = 5h 50m at 1.0x. Highlights 11; notes 4; started 28 Sep 2026; last opened yesterday (Thu 15 Oct, 30 min of listening).
 
 ## Other derived numbers
 
@@ -101,6 +102,6 @@ Free: Silk (default), Inko, Lumen. Pro: Pip, Tako. The paywall shows "$4.99 a ye
 
 ## Text on screen
 
-- Narration read-along demo: Moby-Dick, chapter 1 ("Loomings"), paragraph beginning "It is a way I have of driving off the spleen", cut with an ellipsis after "knocking people's hats off" so the original punctuation is never altered. The highlighted sentence starts at "Whenever".
+- Narration demo (Phase 4): Moby-Dick, chapter 1 ("Loomings"), paragraph beginning "It is a way I have of driving off the spleen", cut with an ellipsis after "knocking people's hats off" so the original punctuation is never altered. The highlighted sentence starts at "Whenever".
 - Audiobook Read along demo: Frankenstein, chapter 8, paragraph beginning "She then related that, by the permission of Elizabeth" (Project Gutenberg #84), unchanged. The buddy walks "She was alarmed by this account and passed several hours…".
 - Reading buddy samples: opening lines of Moby-Dick, Frankenstein (chapter 5), Alice, Pride and Prejudice and The Hound of the Baskervilles.

@@ -34,9 +34,9 @@
 ## Brand
 - Variables: collections `Primitives`, `Color` (Dark, Light), `Dimension`.
 - Type: Reddit Sans text styles (Display, Headline, Title, Body, Label, Reader, Numeric), Reddit Sans Condensed for badges.
-- Colour rules: violet is the app accent and the reading colour; amber is reserved for listening (audio, narration, the reading buddy); red only for errors; green only for "finished". Empty tracks and off toggles use border/track (3:1 on the canvas).
+- Colour rules: violet is the app accent and the reading colour; amber is reserved for listening (audio, narration, the reading buddy); red only for errors; green only for "finished". Empty tracks and off toggles use border/track (3:1 on the canvas). The narration sentence band uses listen/band, an opaque token, so text halos can match it.
 - Logos: none yet. The wordmark is plain Reddit Sans text until a name is chosen.
-- Domain visual idea: the reading buddy, a small creature that walks the line being narrated and leaves footprints on the words it touches (from the owner's reference video).
+- Domain visual idea: the reading buddy, a small creature that walks the line being read, its legs passing behind the letters so every word stays readable (from the owner's reference video). In Read along it replaces the highlight; it leaves no footprints.
 
 ## Figma
 - Working file: `VVCsO55kIkLasjBGTEv9Ei` (ALL IN ONE reader (Copy)).
