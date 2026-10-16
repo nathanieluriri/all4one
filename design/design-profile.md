@@ -1,7 +1,7 @@
 # Design profile: all4one (working name)
 
 ## Product
-- One line: a local-first reader that opens ebooks, comics, PDFs and audiobooks in one library, with on-device narration. Books never leave the device; only small progress records sync (Pro).
+- One line: a local-first reader that opens ebooks, comics, PDFs and audiobooks in one library, with on-device narration. Books never leave the device; only small records sync (Pro): progress, sessions, highlights and notes, tabs and settings.
 - Audience: people with DRM-free files (EPUB, comics, PDFs, M4B/MP3) who want one app instead of four.
 - Market / locale: global; payments via Google Play / Apple in apps, Paystack or Flutterwave on web. Nigerian English, Yoruba, Igbo and Hausa voices are a possible later differentiator.
 
@@ -33,8 +33,8 @@
 
 ## Brand
 - Variables: collections `Primitives`, `Color` (Dark, Light), `Dimension`.
-- Type: Reddit Sans text styles (Display, Headline, Title, Body, Label, Reader, Numeric), Reddit Sans Condensed for badges.
-- Colour rules: violet is the app accent and the reading colour; amber is reserved for listening (audio, narration, the reading buddy); red only for errors; green only for "finished". Empty tracks and off toggles use border/track (3:1 on the canvas). The narration sentence band uses listen/band, an opaque token, so text halos can match it.
+- Type: Reddit Sans text styles (Display, Headline, Title, Body, Label, Reader, Numeric), Reddit Sans Condensed for badges. Reader/Lyrics is the Read along text; Reader/Narration is narration text.
+- Colour rules: violet is the app accent and the reading colour; amber is reserved for listening (audio, narration, the reading buddy); red only for errors; green only for "finished". Empty tracks and off toggles use border/track (3:1 on the canvas). The narration sentence band uses listen/band, an opaque token, so text halos can match it. Amber text and icons use listen/text (amber/700 in Light mode, 5.9:1 on white).
 - Logos: none yet. The wordmark is plain Reddit Sans text until a name is chosen.
 - Domain visual idea: the reading buddy, a small creature that walks the line being read, its legs passing behind the letters so every word stays readable (from the owner's reference video). In Read along it replaces the highlight; it leaves no footprints.
 
