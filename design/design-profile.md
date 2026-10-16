@@ -7,15 +7,17 @@
 
 ## What is built (source of truth)
 - Codebase: none yet (design first). Source of truth is `Architecture_plan.docx` (shared 2026-10-13).
-- Planned, phase-labelled in designs: read-listen switching (Phase 3), on-device Kokoro narration (Phase 4), skip silence and volume boost (after MVP), cloud voices (Phase 4).
-- Proposed, not in the plan: Open Library metadata lookup (owner asked for AI-written metadata; Open Library is free and needs no server AI).
+- Planned, phase-labelled in designs: read-listen switching and the audiobook Read along mode (Phase 3), on-device Kokoro narration (Phase 4), skip silence and volume boost (after MVP), cloud voices (Phase 4).
+- Proposed, not in the plan: Open Library metadata lookup (owner asked for AI-written metadata; Open Library is free and needs no server AI); transcribing an audiobook that has no linked ebook so it can use Read along.
+- Owner decisions (15 Oct 2026): Library tabs default to All, Unsorted, Reading, Listening and are sorted by hand; imports land in Unsorted. Stats get an overall page (Kindle week view + Mihon overview + format ranking, no download stats) and a per-book page modelled on the Kindle book card. Audiobooks get a Read along text mode where the reading buddy walks the current line instead of a highlight. Three reading buddies are free, the rest need Pro.
 
 ## Sanctioned dataset
 - Path: `design/demo-library.md`. Every number on screen comes from it. All values are illustrative sample data for public-domain titles.
 
 ## Domain vocabulary
 - Item types: ebook, comic, pdf, audio. Status: want, reading, finished.
-- Shelves = the plan's "collections" (user-made tabs in the Library). Tags = chips on the item.
+- Tabs = the plan's "collections" (across the top of the Library). All and Unsorted fill themselves; other tabs are placed by hand. Tags = chips on the item.
+- Read along = audiobook text mode (lyrics style); narration = text-to-speech of an ebook.
 - Pair = an ebook and an audiobook linked as one title.
 - Position model: CFI for reflowable ebooks, page for PDFs and comics, track + seconds for audio. Every item also has a percent.
 - Narration moves by sentence (the pipeline splits text into sentences), so its skip buttons are previous/next sentence.
@@ -24,6 +26,9 @@
 ## Reference bar
 - Mihon/Tachiyomi (owner's screenshots): library grid with count badges and shelf tabs, reader chrome with page slider and four tools, settings list. Take the structure, not the skin.
 - Pocket Casts / Apple Books player: one big control row, chapter scrubber, sleep timer and speed as chips.
+- Kindle reading stats (owner's photos): "Last week" totals, per-day bars with dates and times, Session and Today blocks, and the per-book card (cover, percent, bar, reading time, page, pages left, time left, highlights, notes).
+- Mihon statistics (owner's screenshot): overview card with three numbers and icons, grouped count cards. Download counts are excluded on purpose.
+- Music-app lyrics view: text scrolls with the audio and the current line stays at a fixed height.
 - Pass rules: Reddit Sans text styles only; every colour bound to a variable; violet only for reading, amber only for listening; badges show the real file extension; no feature shown as live if the plan marks it later.
 
 ## Brand
