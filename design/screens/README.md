@@ -23,7 +23,7 @@ Exported at 1x from the Figma file `VVCsO55kIkLasjBGTEv9Ei` (ALL IN ONE reader (
 | 16-book-stats-time-machine.png | Book stats · The Time Machine | 2043:1541 | |
 | 17-book-stats-pride-and-prejudice.png | Book stats · Pride and Prejudice | 2043:1608 | |
 | 18-read-along-needs-text.png | Read along · needs text | 2046:2067 | Phase 3 (transcription is proposed) |
-| 19-player-frankenstein.png | Audiobook player · Frankenstein | 2046:2183 | Read along button: Phase 3 |
+| 19-player-frankenstein.png | Audiobook player · Frankenstein | 2046:2183 | Read along button, scrubber buddy and "EPUB linked · text ready": Phase 3 |
 | 20-reading-buddy-species.png | Reading buddy sheet | 2011:3 | Phase 3 (Read along), Phase 4 (narration) |
 | 21-narration-demo-frame1.png | Narration demo 1 | 2014:2 | Phase 4 |
 | 22-narration-demo-frame5.png | Narration demo 5 | 2014:1397 | Phase 4 |
