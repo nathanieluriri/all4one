@@ -11,7 +11,7 @@ Exported at 1x from the Figma file `VVCsO55kIkLasjBGTEv9Ei` (ALL IN ONE reader (
 | 04-comic-reader.png | Comic reader | 2017:488 | |
 | 05-comic-reading-mode.png | Reading mode sheet | 2017:582 | |
 | 06-audiobook-player.png | Audiobook player · Pride and Prejudice | 2018:640 | |
-| 07-more.png | More | 2019:671 | Sync row: Pro |
+| 07-more.png | More | 2019:671 | Sync row: Pro; Reading buddy row: Phase 3 |
 | 08-settings.png | Settings | 2019:803 | |
 | 09-listening-settings.png | Settings · Listening | 2019:927 | Narration voices: Phase 4; reading buddy: Phase 3 |
 | 10-library-empty.png | Library · empty | 2020:930 | |
@@ -29,6 +29,6 @@ Exported at 1x from the Figma file `VVCsO55kIkLasjBGTEv9Ei` (ALL IN ONE reader (
 | 22-narration-demo-frame5.png | Narration demo 5 | 2014:1397 | Phase 4 |
 | 23-read-along-frame1.png | Read along · 1 | 2048:2147 | Phase 3 |
 | 24-read-along-frame4.png | Read along · 4 | 2048:3577 | Phase 3 |
-| 25-buddy-paywall.png | Buddy paywall · Pro | 2050:2322 | Pro ($4.99 a year is illustrative) |
+| 25-buddy-paywall.png | Buddy paywall · Pro | 2050:2322 | Pro ($4.99 a year is illustrative); reading buddies: Phase 3 |
 | 26-book-stats-frankenstein.png | Book stats · Frankenstein | 2054:2775 | Pair stats: Phase 3 |
 | 27-library-kids.png | Library · Kids | 2054:2405 | |
