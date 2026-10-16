@@ -29,12 +29,12 @@
 - Kindle reading stats (owner's photos): "Last week" totals, per-day bars with dates and times, Session and Today blocks, and the per-book card (cover, percent, bar, reading time, page, pages left, time left, highlights, notes).
 - Mihon statistics (owner's screenshot): overview card with three numbers and icons, grouped count cards. Download counts are excluded on purpose.
 - Music-app lyrics view: text scrolls with the audio and the current line stays at a fixed height.
-- Pass rules: Reddit Sans text styles only; every colour bound to a variable; violet only for reading, amber only for listening; badges show the real file extension; no feature shown as live if the plan marks it later.
+- Pass rules: Reddit Sans text styles only; every colour bound to a variable; amber only for listening; badges show the real file extension; planned features carry a phase label on the canvas or in an annotation, never inside the app UI.
 
 ## Brand
 - Variables: collections `Primitives`, `Color` (Dark, Light), `Dimension`.
 - Type: Reddit Sans text styles (Display, Headline, Title, Body, Label, Reader, Numeric), Reddit Sans Condensed for badges.
-- Colour rules: violet = reading, amber = listening, red only for errors, green only for "finished".
+- Colour rules: violet is the app accent and the reading colour; amber is reserved for listening (audio, narration, the reading buddy); red only for errors; green only for "finished". Empty tracks and off toggles use border/track (3:1 on the canvas).
 - Logos: none yet. The wordmark is plain Reddit Sans text until a name is chosen.
 - Domain visual idea: the reading buddy, a small creature that walks the line being narrated and leaves footprints on the words it touches (from the owner's reference video).
 

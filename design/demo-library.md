@@ -5,7 +5,7 @@ All titles are public domain except "Orb-weaver silk mechanics", which stands in
 | # | Title | Author | Type | Format | Count badge | Status | Progress |
 |---|---|---|---|---|---|---|---|
 | 1 | Moby-Dick; or, The Whale | Herman Melville | ebook | EPUB | 135 chapters | reading | 1% (chapter 1; on-device narration at 5% of the chapter) |
-| 2 | Frankenstein | Mary Shelley | ebook + audio pair | EPUB + M4B (8h 35m) | 24 chapters | reading | 32% (chapter 8, 4:50 of 20:37) |
+| 2 | Frankenstein | Mary Shelley | ebook + audio pair | EPUB + M4B (8h 35m) | 24 chapters | reading | 32% (chapter 8, 4:46 of 20:37) |
 | 3 | Pride and Prejudice | Jane Austen | audio | M4B | 11h 35m | reading | 45% |
 | 4 | Little Nemo in Slumberland | Winsor McCay | comic | CBZ | 190 pages | reading | page 118 of 190 (62%) |
 | 5 | The Time Machine | H. G. Wells | pdf | PDF | 240 pages | reading | page 118 of 240 (49%) on the phone; page 210 (88%) on the tablet |
@@ -19,18 +19,20 @@ All titles are public domain except "Orb-weaver silk mechanics", which stands in
 
 ## Library tabs (placed by hand)
 
-Defaults: All, Unsorted, Reading, Listening. Imports land in Unsorted. A book can be in more than one tab.
+Defaults: All, Unsorted, Reading, Listening. Imports land in Unsorted. A book can be in more than one tab. Every tab can be renamed or deleted; Restore default tabs brings the four defaults back.
+
+Count badges carry units: ch (chapters or issues), p (pages), or running time.
 
 - All 12 (fills itself).
 - Unsorted 3 (fills itself: books in no tab): 7, 11, 12.
 - Reading 6: 1, 2, 4, 5, 8, 10.
 - Listening 4: 2, 3, 6, 9.
 - Check: Reading ∪ Listening = 9 books (Frankenstein is in both), plus Unsorted 3 = 12.
-- Move sheet example: Alice (7) and Winnie-the-Pooh (12) selected, going into a new tab "Kids".
+- Add-to-tab example: Alice (7) and Winnie-the-Pooh (12) selected and added to a new tab "Kids" (0 books before, 2 after). Afterwards Unsorted shows 1 (Thimble Theatre).
 
 ## Status counts (from progress, not tabs)
 
-Started 7 (1, 2, 3, 4, 5, 8, 10) · Finished 2 (7, 12) · Not started 3 (6, 9, 11) = 12.
+In progress 7 (1, 2, 3, 4, 5, 8, 10) · Finished 2 (7, 12) · Not started 3 (6, 9, 11) = 12.
 
 ## Time spent, all time (sessions)
 
@@ -72,7 +74,7 @@ Not opened yet: MP3 (Dracula), CBR (Thimble Theatre). Shares add to 100%.
 | Sat 10 Oct | 42 | 60 | 102 (1h 42m) |
 | Total | 252 (4h 12m) | 365 (6h 05m) | 617 (10h 17m) |
 
-- Daily average 617 / 7 = 88.1 min → 1h 28m. Streak 7 days (every day above zero).
+- Daily average 617 / 7 = 88.1 min → 1h 28m. Streak 8 days: 9 Oct (13 min of Pride and Prejudice) through 16 Oct; nothing on 8 Oct.
 - Bars scale to the busiest day (105 min = full width).
 - Week listening 365 = Pride and Prejudice 300 + Frankenstein 65. Pride and Prejudice's other 13 min were on 9 Oct.
 - Today: 35m reading (The Time Machine) + 1h 10m listening (Pride and Prejudice, 45m + 25m). Last session: 25m of Pride and Prejudice.
@@ -89,13 +91,13 @@ Highlights 48 (Time Machine 9, Alice 14, Pooh 6, Frankenstein 11, Equiano 3, Orb
 ## Other derived numbers
 
 - Pride and Prejudice: 61 chapters, 11h 35m = 695 min. 45% = 313 min played, 6h 22m left. Chapter 28 is 12:40 long; at 7:28, 5:12 left in the chapter; 12 minute ticks.
-- Frankenstein audio: 8h 35m = 515 min. Chapter 8 is 3,093 words, read in 20:37 (1,237 s). At 4:50 the sentence "She was alarmed by this account…" is playing: 32.1% of the book, 15:47 left in the chapter, 515 × (1 − 0.321) = 350 min = 5h 50m left in the book. Chapter 8 has 20 minute ticks.
-- Time Machine sync prompt: 118 / 240 = 49%; 210 / 240 = 88%.
+- Frankenstein audio: 8h 35m = 515 min. Chapter 8 is 3,093 words, read in 20:37 (1,237 s), so about 0.4 s a word. The player sits at 4:46 (−15:51), where "She was alarmed by this account…" begins: 32.1% of the book, 515 × (1 − 0.321) = 350 min = 5h 50m left. The Read along frames run one word apart: "alarmed", "by", "this" at 4:47 (−15:50), "account", "and" at 4:48 (−15:49), "passed", "several" at 4:49 (−15:48). Chapter 8 has 20 minute ticks.
+- Time Machine sync prompt (shown to a Pro user; every other screen is a free user): 118 / 240 = 49% on the phone; 210 / 240 = 88% on the tablet, last read there 8 min ago.
 - Narration voice: Kokoro "Heart" (US English). Voice pack size "~80 MB" is a placeholder until the quantized model is chosen.
 
 ## Reading buddies
 
-Free: Silk (default), Inko, Lumen. Pro: Pip, Tako. Pro price and one-time vs yearly are still open in the plan, so no price is shown.
+Free: Silk (default), Inko, Lumen. Pro: Pip, Tako. The paywall shows "$4.99 a year" as an illustrative price; Pro price and one-time vs yearly are still open in the plan.
 
 ## Text on screen
 
